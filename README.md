@@ -127,4 +127,4 @@
   <p>如果这个项目对您有帮助，请给个 ⭐️ 支持一下！</p>
 </div>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=MoonTechLab/Selene&type=Date)](https://www.star-history.com/#MoonTechLab/Selene&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=MoonTechLab/Selene&type=Date)](https://star-history.dera.page/#MoonTechLab/Selene&type=date)
